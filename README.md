@@ -31,13 +31,12 @@ We’d like you to build a classifier that identifies a successful or unsuccessf
 
 Kickstarter is an American public-benefit corporation based in Brooklyn, New York, that maintains a global crowdfunding platform focused on creativity and merchandising. The company’s stated mission is to  “help bring creative projects to life.” Kickstarter has reportedly received more than $1.9 billion in pledges from 9.4 million backers to fund 257,000 creative projects, such as films, music, stage shows, comics, journalism, video games, technology and food-related projects.
 
-In this repository, you a directory that contains a zip file with the appropriate datasets. The other empty “Solution” directory is where you should place your solution.
+In this repository, you will find zip files with the appropriate datasets.
 
-- Solution
-- Data
-  - kickstarter-data.zip
+  - kickstarter-dataset-1.zip
     - kickstarter-dataset-1.csv
-    - Kickstarter-dataset-2.csv
+  - Kickstarter-dataset-2.zip
+    - kickstarter-dataset-2.csv
     
 ## Key specifications and constraints
 
