@@ -22,7 +22,7 @@ After this, if you want to show us more of what you can do by improving on your
 first submission, work on it some more and then make another commit with the
 message "``beyond-the-call``"
 
-request. You can do this any time before midnight on Thursday. We will not
+You can do this any time before midnight on Thursday. We will not
 consider any submission after midnight on Thursday.
 
 ## The Exercise
