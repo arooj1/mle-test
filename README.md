@@ -1,3 +1,12 @@
+## Solution
+Solution file is ML-Test.ipynb 
+Created on Fri Mar 26,2021
+
+@author: Arooj Ahmed Qureshi
+@email: ahmed.arooj@gmail.com
+
+
+## Assessment
 Hey there!
 
 Thank you so much for taking the time to check this out — we appreciate your time.
