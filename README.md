@@ -1,5 +1,5 @@
 ## Solution
-Solution file is ML-Test.ipynb 
+Solution file is `ML-Test.ipynb` 
 
 
 Created on Fri Mar 26,2021
@@ -7,6 +7,8 @@ Created on Fri Mar 26,2021
 @author: Arooj Ahmed Qureshi
 
 @email: ahmed.arooj@gmail.com
+
+![procecss](images/process.JPG)
 
 
 ## Assessment
